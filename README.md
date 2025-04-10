@@ -25,7 +25,7 @@ Follow the steps below to use the English version of TrackCell:
 
 #### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/TrackCell.git
+git clone https://github.com/leronru/TrackCell.git
 ``` 
 Step 2: Navigate to the directory
 ```bash 
@@ -130,7 +130,7 @@ This tool utilizes several open-source libraries and resources, which are listed
 
 Contact:
 
-For any inquiries or to request permission for contributions, please contact the author at: leronru@example.com.
+For any inquiries or to request permission for contributions, please contact the author at: leronru33@gmail.com
 
 
 ---
