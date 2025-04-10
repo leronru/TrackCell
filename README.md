@@ -35,7 +35,11 @@ Step 3: Install the required libraries
 ```bash 
 pip install -r requirements.txt
 ```
+
+```bash
+pip install requests beautifulsoup4 googlesearch-python phonenumbers
 Step 4: Run the tool in English
+```
 ```bash
 python trackCell.py
 ```
