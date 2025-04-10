@@ -1,0 +1,5 @@
+phonenumbers
+requests
+beautifulsoup4
+googlesearch
+
