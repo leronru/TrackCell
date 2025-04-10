@@ -26,19 +26,19 @@ Follow the steps below to use the English version of TrackCell:
 #### Step 1: Clone the repository
 ```bash
 git clone https://github.com/yourusername/TrackCell.git
-
+``` 
 Step 2: Navigate to the directory
-
+```bash 
 cd TrackCell
-
+```
 Step 3: Install the required libraries
-
+```bash 
 pip install -r requirements.txt
-
+```
 Step 4: Run the tool in English
-
-python trackCell_EN.py
-
+```bash
+python trackCell.py
+```
 This will execute the tool in English, providing results based on phone number information.
 
 
@@ -49,21 +49,21 @@ This will execute the tool in English, providing results based on phone number i
 To use the Turkish version of TrackCell, follow these steps:
 
 Step 1: Clone the repository
-
-git clone https://github.com/yourusername/TrackCell.git
-
+```bash
+git clone https://github.com/leronru/TrackCell.git
+```
 Step 2: Navigate to the directory
-
+```bash 
 cd TrackCell
-
+```
 Step 3: Install the required libraries
-
+```bash
 pip install -r requirements.txt
-
+```
 Step 4: Run the tool in Turkish
-
+```bash
 python TrackCell.py
-
+```
 This will execute the tool in Turkish, providing results for the phone number with a Turkish interface.
 
 
@@ -83,9 +83,9 @@ phonenumbers
 
 
 To install the required libraries, simply run:
-
+```bash 
 pip install -r requirements.txt
-
+```
 
 ---
 
